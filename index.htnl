@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Tools for Marketing Course</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>AI Tools for Marketing</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="course.html">Course</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Welcome to the AI Tools for Marketing Course</h2>
+        <p>Learn how to use AI tools to enhance your marketing efforts and improve customer service.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 AI Tools for Marketing</p>
+    </footer>
+</body>
+</html>
